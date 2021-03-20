@@ -1,4 +1,4 @@
-# vue Admin Layout
+# Vue Admin Layout
 
 This template required to use and already included in the package.json
 <br/>
