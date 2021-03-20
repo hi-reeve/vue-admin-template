@@ -6,15 +6,15 @@ This template required to use and already included in the package.json
 
 # <a href="https://zynth17.github.io/vue-admin-template/">DEMO</a>
 
-##Desktop View
+<h2>Desktop View</h2>
 
 !['Screenshot Desktop'](./public/assets/screenshot-desktop.png)
 
-##Tablet View
+<h2>Tablet View</h2>
 
 !['Screenshot Tablet'](./public/assets/screenshot-tablet.png)
 
-##Mobile View
+<h2>Mobile View</h2>
 
 !['Screenshot Mobile'](./public/assets/screenshot-mobile.png)
 
