@@ -1,5 +1,8 @@
 # admin-layout-prime
 
+This template required to use and already included in the package.json
+<a href="https://vueuse.org/" >@vueuse/core</a>
+
 ## Project setup
 ```
 npm install
